@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=K2D:wght@100;500&display=swap');
+
+.chakra-petch-bold-italic {
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+* {
+  font-family: "K2D", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  color: rgb(255, 255, 204);
+}
+.top-header {
+  background-color: darkred;
+}
+.menu-item,.input,.search {
+  color:white;
+  padding: 15px;
+  display: inline-block;
+  text-decoration: none;
+  font-family: "Chakra Petch", sans-serif;
+}
+.bottom-footer {
+  background-color: brown;
+  padding: 20px;
+  text-align: center;
+}
+.content {
+  color: crimson;
+  margin: 20px;
+  padding:60px
+}
+.image {
+  margin: 20px;
+}
+.Search {
+  color: black;
+
+}
